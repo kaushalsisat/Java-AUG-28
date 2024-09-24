@@ -1,0 +1,248 @@
+Question 1: What is the signature of the main method in Java?
+
+a) public static void main(String[] args) 
+--------------------------------------------------------------------------------
+Question 2: Which keyword is used to indicate the entry point of a Java program?
+
+c) main
+---------------------------------------------------------------------------------
+Question 3: In Java, can the main method be defined as non-static?
+
+b) No
+--------------------------------------------------------------------------------
+Question 4: What is the purpose of the String[] args parameter in the main method
+
+c) It specifies the number of arguments the main method can accept
+----------------------------------------------------------------------------------
+Question 5: What happens if the main method is not declared as public static
+
+b) The program will run but will throw a runtime exception.
+---------------------------------------------------------------------------------
+Question 6: How do you run a Java program from the command line if the main method is in a class 
+named MyClass?
+
+b) java MyClass 
+--------------------------------------------------------------------------------------------
+Question 7: What is the return type of the main method
+
+a) void
+----------------------------------------------------------------------------------------------
+Question 8: How can you pass command-line arguments to a Java program?
+
+ c) By using the args keyword in the program.
+---------------------------------------------------------------------------------------------
+Question 9: Can a Java program have multiple main methods?
+
+a) Yes, but only one of them can be executed.
+----------------------------------------------------------------------------------------------
+Question 10: Which of the following is the correct way to declare the main method with arguments in 
+Java?
+
+a) public static void main(String args[])
+-------------------------------------------------------------------------------------------------
+Question 11: Which of the following is NOT a valid Java variable name?
+
+c) my-variable 
+-----------------------------------------------------------------------------------------------
+Question 12: What is the scope of a local variable in Java
+
+b) It is accessible only within the method or block where it is declared.
+--------------------------------------------------------------------------------------------------
+Question 13: Which of the following data types is used to store a single character in Java?
+
+b) char
+------------------------------------------------------------------------------------------------
+Question 14: What is the default value of an instance variable (non-static) in Java if it is not explicitly 
+initialized?
+
+b) null 
+-----------------------------------------------------------------------------------------------------
+Question 15: Which access modifier allows a variable to be accessed from any class in the same package? 
+
+a) public
+---------------------------------------------------------------------------------------------------------
+Question 16: What is the purpose of the final keyword when applied to a variable in Java? 
+
+a) It indicates that the variable cannot be modified after initialization
+------------------------------------------------------------------------------------------------------
+Question 17: Which of the following is NOT a valid way to declare and initialize a constant variable in 
+Java?
+
+b) final double PI = 3.14159; 
+----------------------------------------------------------------------------------------------------------
+Question 18: What is the range of values that can be stored in a byte variable in Java?
+
+a) -128 to 127
+-------------------------------------------------------------------------------------------------------
+Question 1 9: Which keyword is used to declare a constant in Java?
+
+b) const 
+-----------------------------------------------------------------------------------------------------------------
+Question 20: What is the purpose of the static keyword when applied to a variable in Java? 
+
+b) It makes the variable accessible only within the same method.
+
+---------------------------------------------------------------------------------------------------------
+Question 21: Which Java statement is used to control the flow of a program based on a condition?
+
+d) do-while
+---------------------------------------------------------------------------------------------------
+Question 22: In Java, what is the purpose of the else statement in an if-else construct?
+
+c) To specify the action to be executed if the if condition is false.
+--------------------------------------------------------------------------------------
+Question 23: Which of the following loop constructs is designed for situations where the loop body 
+should always execute at least once?
+
+c) do-while
+-----------------------------------------------------------------------------------------
+Question 24: In a switch statement in Java, what is the purpose of the break statement?
+
+b) To exit the switch statement and continue with the code after the switch.
+---------------------------------------------------------------------------------
+Question 25: What is the role of the break statement in a loop in Java? 
+
+b) It exits the loop and continues with the code after the loop.
+------------------------------------------------------------------------------------
+Question 26: What is the output of the following code snippet?
+
+a) "x is greater than 3"
+---------------------------------------------
+Question 27: Which loop construct is best suited for situations where the number of iterations is known 
+in advance
+
+b) for
+-----------------------------------------------------------------------------------------------
+Question 28: In a for loop in Java, where is the initialization statement typically placed? 
+
+d) Inside the loop body.
+-------------------------------------------------------------------------------------------------
+Question 29: What is the output of the following code snippet?
+
+a) 0 1 2 3 4
+--------------------------------------------------------------------------------------------------
+Question 30: In Java, what does the continue statement do in a loop?
+
+b) Skips the current iteration and continues with the next iteration of the loop.
+--------------------------------------------------------------------------------
+Question 31: In Java, which keyword is used to indicate inheritance between classes?
+
+c) extends
+-----------------------------------------------------------------------------
+Question 32: Which type of inheritance allows a class to inherit from multiple classes in Java? 
+
+b) Multiple inheritance 
+---------------------------------
+Question 33: In Java, which keyword is used to prevent a class from being inherited by other classes?
+c) static
+-----------------------------------------------------
+Question 34: What is the primary purpose of the super keyword in Java?
+b) To access static members of the superclass.
+----------------------------------------
+Question 35: In Java, which class serves as the ultimate superclass for all classes, directly or indirectly? 
+b) java.lang.Class
+------------------------------------------------
+Question 36: Which of the following statements is true regarding method overriding in Java?
+b) A subclass can override a static method from its superclass
+--------------
+Question 37: In Java, what is the concept of method hiding?
+c) It allows a method to be hidden by changing its name in the subclass
+------------
+Question 38: Which access modifier allows a subclass to access members of its superclass in Java? 
+
+c) public
+---------------------------------------------------------------------------
+Question 39: In Java, which keyword is used to call a constructor of the superclass from a subclass 
+constructor?
+
+b) extends
+--------------------------------------------------------------------------------
+Question 40: What is the term for a class that cannot be instantiated and is used solely as a base for 
+other classes in Java? 
+
+c) Concrete class 
+------------------------------------------------------------------------------
+Question 41: What is polymorphism in Java?
+b) The ability to define multiple constructors in a class 
+--------------------------------------------------------
+Question 42: Which type of polymorphism is achieved through method overriding?
+
+a) Compile-time polymorphism
+------------------------------------------
+Question 43: In Java, what is method overloading? 
+
+c) Defining a method inside another method 
+
+Question 44: What is the return type considered when determining method overloading in Java? 
+
+b) It must be the same for all overloaded methods.
+
+Question 45: Which keyword is used to indicate that a method is being overridden in a subclass?
+
+a) overriding 
+
+Question 46: In Java, which method is called when an object is created using the new keyword?
+c) initialize
+
+Question 47: What is the benefit of using polymorphism in Java? 
+
+a) It allows classes to have multiple constructors.
+
+Question 48: Which type of polymorphism is achieved through method overloading? 
+b) Run-time polymorphism
+
+Question 49: In Java, can a subclass override a method with a lower access level than the superclass? 
+c) No, the access level must be the same or higher in the subclass
+
+
+Question 50: What is the term for a reference variable that can refer to objects of multiple classes? 
+
+c) Variable reference
+
+Question 51: What is abstraction in Java? 
+
+c) The process of defining multiple constructors in a class
+
+Question 52: Which keyword is used to declare an abstract class in Java?
+
+a) abstract
+
+Question 53: Can an abstract class have concrete (non-abstract) methods? 
+
+d) No, an abstract class can have only abstract methods.
+
+Question 54: What is the purpose of an abstract method in an abstract class?
+
+b) To declare a method without providing its implementation.
+
+Question 55: In Java, can an abstract class be instantiated (i.e., an object of the abstract class be 
+created)?
+
+c) Yes, but only if all its methods are concrete (non-abstract). 
+
+Question 56: What is the purpose of the abstract keyword when applied to a method in Java? 
+
+c) It indicates that the method has a default implementation.
+
+Question 57: Which of the following is NOT a valid use of abstraction in Java?
+
+
+b) Implementing interfaces to provide a set of methods that must be defined by implementing classes
+
+Question 58: Can a concrete (non-abstract) class inherit from an abstract class in Java
+b) No, a concrete class cannot inherit from an abstract class.
+
+
+Question 61: What is encapsulation in Java? 
+a) The process of hiding implementation details and showing only necessary features of an object.
+
+Question 63: In Java, which access modifier allows a class member to be accessed from anywhere, both 
+within and outside the class
+
+b) private
+
+uestion 68: In Java, which keyword is used to declare a private class member?
+
+
+a) private 
+
