@@ -1,0 +1,852 @@
+1.Which of the following is not a primitive data type in Java?
+C. String 
+
+2.Which primitive data type is used to store a single 16-bit Unicode character?
+C. char 
+3.What is the size of the primitive data type long in Java?
+B. 8 bytes 
+4.Which of the following data types is used to store a value with a floating decimal point?
+A. float 
+5.Which data type in Java is used to represent true or false values?
+A. boolean 
+6.What is the default value of a boolean variable in Java?
+B. false 
+7.Which of the following is the correct syntax to declare a variable of type double in Java?
+A. double x = 3.14;
+8.Which of the following is not a valid datatype in Java?
+D. decimal 
+9.What is the size of the int datatype in Java?
+B. 2 bytes 
+
+Question 10: 
+Which of the following can be used to declare a variable to store a number with a fractional part?
+C. double
+
+Question 11: 
+What is the default value of a char variable in Java?
+C. ' ' 
+Question 12: 
+Which of the following is the smallest integer data type in Java?
+D. byte 
+
+Question 13: 
+Which of the following statements is true about the float data type in Java?
+A. It is a single-precision 32-bit IEEE 754 floating point.
+
+Question 14: 
+Which of the following literals can be assigned to a variable of type byte in Java?
+D. 100 
+
+Question 15: 
+Which of the following data types can hold a value of 3.14?
+C. byte 
+
+Question 16: 
+What is the range of values that can be stored in a variable of type short in Java?
+A. -128 to 127 
+
+Question 17: 
+Which of the following is used to declare a variable that can hold a large integer value?
+B. int 
+
+Question 18: 
+What will be the output of the following code snippet?
+B. 2 
+
+Question 19: 
+Which of the following datatypes has the highest precision?
+D. long 
+
+Question 20: 
+Which of the following is not a keyword in Java?
+B. volatile
+
+Question 21: 
+Which of the following is the correct way to declare a variable in Java?
+B. int x = 10; 
+
+Question 22: 
+What is the default value of a local variable in Java?
+B. null 
+
+Question 23: 
+Which of the following variable names is invalid in Java?
+C. 1name 
+
+Question 24: 
+Which keyword is used to declare a constant variable in Java?
+C. const 
+
+Question 25: 
+What will be the output of the following code?
+B. 5 
+
+Question 26: 
+Which of the following is not a valid way to declare a variable in Java?
+C. int z = x + y; 
+
+Question 27: 
+What is the correct syntax to declare a variable that can hold a string value?
+B. String x = "Hello"; 
+
+Question 28: 
+Which of the following statements about variable scope in Java is true?
+A. A variable declared inside a method is accessible outside the method. 
+
+Question 29: 
+What is the correct way to declare multiple variables of the same type in Java?
+C. int x = 1; int y = 2; int z = 3;
+
+Question 30: 
+Which of the following is true about instance variables in Java?
+D. && 
+
+Question 32: 
+What will be the output of the following code?
+C. 60 
+
+Question 33: 
+Which of the following operators is used for concatenation of strings in Java?
+B. + 
+
+Question 34: 
+What is the result of the following expression?
+A. 15 
+
+Question 35: 
+Which of the following is the correct syntax for the ternary operator in Java?
+B. condition : expression1 ? expression2;
+
+Question 36: 
+What will be the output of the following code?
+C. 15 
+
+Question 37: 
+Which of the following is not a relational operator in Java?
+A. && 
+
+Question 39: 
+What will be the output of the following code?
+A. 2.5 
+
+Question 40: 
+Which of the following operators has the highest precedence in Java?
+C. () 
+
+Question 41: 
+What is a constructor in Java?
+B. A method that returns the type of the class. 
+
+Question 42: 
+Which of the following is true about constructors in Java?
+D. Constructors cannot have parameters. 
+
+Question 43: 
+What will be the output of the following code?
+C. No output 
+
+Question 44: 
+Which of the following statements is true about default constructors?
+B. A default constructor takes parameters. 
+
+Question 45: 
+Can constructors be overloaded in Java?
+A. Yes 
+
+Question 46: 
+Which keyword is used to call one constructor from another in the same class?
+A. this 
+
+Question 47: 
+What will be the output of the following code?
+D. Runtime error
+
+Question 48: 
+Which of the following is not a property of a constructor?
+
+
+Question 49: 
+What will be the output of the following code?
+A. 0 
+
+Question 50: 
+Which of the following is true about the use of super() in constructors?
+C. It is used to call the default constructor of the superclass. 
+
+Question 51: 
+Which of the following is not a Java control flow statement?
+D. repeat 
+
+Question 52: 
+What will be the output of the following code?
+A. x is greater than 5 
+
+Question 53: 
+Which of the following is true about the for loop in Java?
+C. It is used to execute a block of code only if a condition is true.
+
+Question 54: 
+What is the output of the following code?
+A. 0 1 2 3 4 
+
+Question 55: 
+Which keyword is used to exit a loop in Java?
+B. break 
+
+Question 56: 
+What will be the output of the following code?
+A. 1 2 
+
+Question 57: 
+Which of the following statements is true about the switch statement in Java?
+D. It cannot have a default case. 
+
+Question 58: 
+What will be the output of the following code?
+C. Wednesday 
+
+Question 59: 
+Which of the following loops will execute the code block at least once?
+A. for loop 
+
+Question 60: 
+What will be the output of the following code?
+A. 0 1 2 3 
+
+Question 61: 
+Which of the following statements is true about classes in Java?
+D. A class must be declared as public. 
+
+Question 62: 
+Which keyword is used to create an object in Java?
+C. new
+
+Question 63: 
+What will be the output of the following code?
+B. Hello World 
+
+Question 64: 
+Which of the following statements is true about objects in Java? 
+D. Objects do not have attributes. 
+
+Question 65: 
+What will be the output of the following code?
+D. Runtime error 
+
+Question 66: 
+Which of the following is used to access members of an object in Java?
+C. -> 
+
+Question 67: 
+What will be the output of the following code?
+B. 10 
+
+Question 68: 
+Which of the following is not a valid way to create an object in Java?
+B. A obj = new A; 
+
+Question 69: 
+Which of the following statements is true about instance variables in Java?
+
+C. They are declared inside a class but outside any method. 
+
+Question 70: 
+What is the purpose of the this keyword in Java?
+A. To refer to the current class. 
+
+Question 71: 
+Which keyword is used to inherit a class in Java?
+C. extends 
+
+Question 72: 
+Which of the following statements is true about inheritance in Java?
+A. A class can inherit multiple classes.
+
+Question 73: 
+What will be the output of the following code?
+A. Class A 
+
+Question 74: 
+Which of the following is a type of inheritance not supported in Java?
+B. Multiple inheritance through classes
+
+Question 75: 
+What is the purpose of the super keyword in Java?
+D. Both B and C
+
+Question 76: 
+What will be the output of the following code?
+D. Compilation error 
+
+Question 77: 
+Which of the following is not a benefit of inheritance?
+C. Multiple inheritance through classes 
+
+Question 78: 
+What will be the output of the following code?
+B. 20 
+
+Question 79: 
+Which of the following is true about method overriding in Java?
+A. The method in the subclass must have the same name as the method in the superclass. 
+
+Question 80: 
+Which of the following statements is true about the instanceof operator in Java?
+B. It is used to create an instance of a class.
+
+Question 81: 
+What is polymorphism in Java?
+B. The ability of an object to take on many forms. 
+
+Question 82: 
+Which of the following statements is true about method overloading in Java?
+A. Method overloading is a form of runtime polymorphism. 
+
+Question 83: 
+Which of the following is an example of runtime polymorphism in Java?
+C. Method overriding 
+
+Question 84: 
+What will be the output of the following code?
+A. Class A 
+
+Question 85: 
+Which keyword is used to achieve dynamic method dispatch in Java?
+D. extends 
+
+Question 86: 
+Which of the following statements is true about interfaces in Java? 
+A. An interface can have only abstract methods.
+
+Question 88: 
+Which of the following statements is true about method overriding in Java?
+A. The method in the subclass must have the same return type as the method in the superclass. 
+
+Question 89: 
+What will be the output of the following code?
+A. Class A 
+
+Question 90: 
+Which of the following is a benefit of polymorphism in Java?
+C. It enhances the flexibility and extensibility of the code. 
+
+Question 91: 
+What is abstraction in Java?
+B. The process of creating a class with multiple methods. 
+
+Question 92: 
+Which of the following is true about abstract classes in Java?
+B. An abstract class can have both abstract and concrete methods.
+
+Question 93: 
+What will be the output of the following code?
+D. No output 
+
+Question 94: 
+Which keyword is used to declare an abstract method in Java?
+C. abstract 
+
+Question 95: 
+Which of the following statements is true about interfaces in Java?
+A. An interface can have instance variables. 
+
+Question 96: 
+What will be the output of the following code?
+D. No output 
+
+Question 97: 
+Which of the following is not allowed in a Java interface?
+C. Private methods 
+
+Question 98: 
+What is the purpose of the default keyword in a Java interface? 
+D. To declare a default class. 
+
+Question 99: 
+What will be the output of the following code?
+A. Interface A 
+
+Question 100: 
+Which of the following statements is true about abstract classes and interfaces in Java?
+D. An interface cannot have abstract methods.
+
+Question 101: 
+What is encapsulation in Java?
+A. The process of hiding the implementation details and showing only functionality. 
+
+Question 102: 
+Which of the following concepts promotes encapsulation in Java?
+A. Access specifiers (public, private, protected)
+
+Question 103: 
+Which access specifier restricts access the most in Java? 
+A. public 
+
+Question 104: 
+What is the purpose of using private access specifier for variables in Java?
+A. To make the variable accessible from any class. 
+
+Question 105: 
+Which of the following is a benefit of encapsulation in Java?
+B. Enhanced security
+
+Question 106: 
+What will be the output of the following code?
+D. Runtime error 
+
+Question 107: 
+Which of the following statements is true about encapsulation? 
+C. Encapsulation helps in achieving data hiding and abstraction. 
+
+Question 108: 
+Which of the following is an example of encapsulation in Java?
+A. Using private variables and public methods 
+
+Question 109: 
+What is the role of getter and setter methods in encapsulation?
+A. Getter methods are used to set the value of variables.
+
+Question 110: 
+Which of the following is not an advantage of encapsulation?
+A. Improved flexibility 
+
+Question 111: 
+Which access modifier restricts access the least in Java? 
+C. public
+
+Question 112: 
+Which of the following is true about the private access modifier in Java?
+B. It allows access within the same package. 
+
+Question 113: 
+Which access modifier is used when no modifier is specified in Java?
+B. protected 
+
+Question 114: 
+What is the default access modifier for variables and methods in Java classes? 
+C. public 
+
+Question 115: 
+Which of the following is true about the protected access modifier in Java?
+B. It allows access within the same package.
+
+Question 116: 
+What will be the output of the following code?
+D. Runtime error 
+
+Question 117: 
+Which access modifier is used to restrict access within the same package and subclasses?
+B. protected 
+
+Question 118: 
+What will be the output of the following code?
+C. 10 
+
+Question 119: 
+Which access modifier allows a variable or method to be accessed from any class in the Java Virtual 
+Machine (JVM)?
+B. protected 
+
+
+Question 120: 
+Which of the following is true about the default (package-private) access modifier in Java?
+D. It allows access from any class in the Java Virtual Machine (JVM). 
+
+121. What is an array in Java?
+B. A data structure that stores elements of different types
+
+122. How do you declare an array in Java?
+B. int arr[];
+
+123. What is the length of an array in Java?
+A. It is the total number of elements in the array.
+
+124. Which of the following is true about the default values of array elements in Java?
+C. They are null for all types. 
+
+125. How can you initialize an array in Java?
+C. int[] arr = {1, 2, 3, 4, 5}; 
+
+126. How do you access the elements of an array in Java?
+C. By using the index of the element enclosed in square brackets ([]).
+
+127. What happens if you try to access an index that is out of the bounds of the array in Java?
+C. It throws an ArrayIndexOutOfBoundsException. 
+
+128. Which of the following statements is true about multidimensional arrays in Java?
+A. All dimensions must be of the same size.
+
+129. How do you find the length of the second dimension of a two-dimensional array arr in Java?
+C. arr[2].length; 
+
+130. What is the correct way to pass an array as an argument to a method in Java?
+B. void method(int[] arr) { ... }
+
+131. Which of the following is a valid way to declare a string in Java?
+A. String str = 'Hello';
+
+132. How do you find the length of a string in Java?
+B. str.length() 
+
+133. What is the output of str.substring(1, 3) if str = "Hello"?
+B. "el" 
+
+134. Which of the following methods can be used to compare two strings in Java?
+C. compare() 
+
+135. What is the result of the following code?
+A. true 
+
+136. What is the result of the following code?
+A. true 
+
+137. How do you convert a string to uppercase in Java?
+C. str.toUpperCase()
+
+138. How do you concatenate two strings in Java?
+B. str1.concat(str2) 
+
+139. What does the trim() method do in Java?
+B. Removes leading and trailing spaces from the string 
+
+140. Which method is used to find the first occurrence of a character in a string?
+C. charAt() 
+
+141. What is the superclass of all exceptions in Java? 
+D. RuntimeException 
+
+142. Which of the following is an unchecked exception?
+B. SQLException
+
+143. Which keyword is used to handle exceptions in Java?
+b.catch
+
+144. What will happen if an exception is not caught in a program?
+D. The program will ignore the exception and continue. 
+
+145. Which block can be used to perform cleanup operations after an exception is thrown?
+D. finally 
+
+146. What is the correct order of blocks when handling exceptions in Java?
+A. try, catch, finally 
+
+147. Which of the following exceptions is thrown when an array is accessed with an illegal index?
+C. IndexOutOfBoundsException 
+
+148. Which statement is true about the finally block?
+D. It is executed before the catch block.
+
+149. How do you create a custom exception in Java?
+D. Implement the Exception interface 
+
+150. Which of the following is true about the throws keyword?
+C. It is used to catch an exception. 
+
+151. Which interface must be implemented by a class to create a new thread?
+A. Runnable 
+
+152. Which method is used to start a thread execution?
+B. start() 
+
+153. Which of the following is not a valid state of a thread?
+A. New 
+
+154. What will happen if we directly call the run() method instead of start() on a thread object?
+C. It will throw an exception. 
+
+155. Which of the following is used to obtain a lock on an object?
+D. notify() method 
+
+156. Which method is used to make a thread wait until another thread completes its execution?
+B. notify() 
+
+157. What does the yield() method do?
+D. Stops the thread. 
+
+158. Which of the following is true about the sleep() method?
+D. It can only be called on synchronized methods. 
+
+159. Which exception is thrown when a thread is waiting, sleeping, or doing some processing, and it is 
+interrupted? 
+C. ThreadException 
+
+161. Which of the following is not a part of the Java Collections Framework?
+B. HashMap 
+
+162. Which interface provides the basic operations for managing a collection of elements?
+D. Map 
+
+163. Which class is synchronized in the Java Collections Framework?
+B. HashMap 
+
+164. Which method is used to add an element to a specific position in an ArrayList?
+D. put() 
+
+165. Which collection class allows you to store key-value pairs and access them by key?
+C. Map 
+
+166. What is the default initial capacity of an ArrayList?
+B. 10 
+
+167. Which method is used to remove all elements from a collection?
+C. removeAll() 
+
+168. Which of the following classes implements the Queue interface?
+LinkedList
+
+169. How can you iterate over a HashSet?
+B. Using an iterator 
+
+170. What does the peek() method do in a queue?
+B. Returns the head of the queue without removing it
+
+171. Which of the following classes is a part of the Java Collections Framework but is not synchronized?
+A. HashSet 
+
+172. Which of the following methods is used to obtain the number of elements in a collection?
+C. count() 
+
+173. What is the time complexity of the get() method in an ArrayList?
+B. O(n) 
+
+174. Which collection class maintains the order of insertion?
+A. HashSet 
+
+175. Which of the following classes provides a resizable array and is not synchronized?
+B. Vector 
+
+176. Which of the following is a valid declaration of a generic HashMap in Java?
+C. HashMap<K, V> map = new HashMap<K, V>(); 
+
+177. Which method is used to check if a collection is empty? 
+B. isEmpty() 
+
+178. What is the difference between HashMap and TreeMap? 
+B. TreeMap maintains order, HashMap does not 
+
+179. Which interface does EnumSet implement? 
+D. Queue 
+
+180. Which method is used to remove a specific element from a HashSet?
+D. clear() 
+
+181. Which of the following is a new feature introduced in Java 8?
+B. Lambda Expressions 
+
+182. What is the purpose of the default keyword in interfaces in Java 8?
+A. To provide a default implementation for a method
+
+183. Which new interface in Java 8 allows us to work with collections in a functional style?
+B. Stream 
+
+184. What is the purpose of the Optional class introduced in Java 8?
+A. To handle optional arguments in methods 
+
+185. Which method in the Stream interface is used to filter elements based on a given predicate? 
+A. filter() 
+
+186. How can you create a Stream from a collection in Java 8?
+A. Stream.of(collection) 
+
+187. Which functional interface in Java 8 has a method with no arguments and returns a value?
+B. Supplier 
+
+188. What is the return type of the map method in the Stream interface? 
+B. Set 
+
+189. Which new date and time API was introduced in Java 8? 
+A. java.util.Date 
+
+190. Which annotation can be used to repeat annotations in Java 8?
+A. @Repeatable 
+
+191. Which class is used to represent a compiled regular expression in Java? 
+C. Regex 
+
+192. Which method in the Pattern class is used to compile a regular expression?
+D. regex() 
+
+193. What does the matches() method in the Matcher class do?
+B. Returns true if any subsequence of the input sequence matches the pattern 
+
+194. Which of the following regular expression patterns matches any digit? 
+A. \d 
+
+195. How do you create a Matcher object from a Pattern?
+A. Pattern.createMatcher(CharSequence)
+
+
+196. Which method in the Matcher class is used to find the next subsequence of the input sequence that 
+matches the pattern?
+C. lookingAt() 
+
+197. What does the regular expression ^abc match?
+C. abc anywhere in the line
+
+198. Which of the following is a greedy quantifier in regular expressions?
+C. * 
+
+199. What does the regular expression a{2,4} match?
+C. Between two and four a characters
+
+
+200. Which method is used to replace all occurrences of a pattern in the input sequence with a 
+replacement string?
+A. replaceAll() 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
